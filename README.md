@@ -1,3 +1,8 @@
+En este proyecto aprendí la utilización de Tailwind.css y Daisy UI, donde logré mejorar apliamente mi capacidad de diseño. Además, seguí practicando y mejorando mi capacidad de código del lado del Frontend.
+Debajo de este mensaje está el enunciado del trabajo.
+
+------------------------------------------------------
+
 Frontend Developer Challenge
 
 
