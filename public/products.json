@@ -3,42 +3,42 @@
         {
             "name": "HEADSET RAZER BLACKSHARK V2 X",
             "code": "SDD456",
-            "price": 72372,
+            "price": "$72372",
             "alt": "Headset",
             "image": "750_750-021033_1.png"
         },
         {
             "name": "HEADSET GAMER NOGA STORMER",
             "code": "SAD777",
-            "price": 5000,
+            "price": "$5000",
             "alt": "Headset",
             "image": "Headset gamer constrictor.png"
         },
         {
             "name": "HEADSET GAMER CONSTRICTOR",
             "code": "578SD",
-            "price": 9000,
+            "price": "$9000",
             "alt": "Headset",
             "image": "Headset gamer noga stormer.png"
         },
         {
             "name": "MOUSE GAMER STORMER",
             "code": "TU45S",
-            "price": 2000,
+            "price": "$2000",
             "alt": "Mouse",
             "image": "Mouse gamer stormer.png"
         },
         {
             "name": "MOUSE OFFICE STANDAR",
             "code": "HGB845",
-            "price": 1500,
+            "price": "$1500",
             "alt": "Mouse",
             "image": "Mouse office standar.png"
         },
         {
             "name": "MICROPHONE GAMER",
             "code": "89DS52",
-            "price": 8000,
+            "price": "$8000",
             "alt": "Microphone",
             "image": "Microphone gamer.png"
         }
