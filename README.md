@@ -1,4 +1,4 @@
-En este proyecto aprendí la utilización de Tailwind.css y Daisy UI, donde logré mejorar apliamente mi capacidad de diseño. Además, seguí practicando y mejorando mi capacidad de código del lado del Frontend.
+En este proyecto aprendí la utilización de Tailwind.css y Daisy UI, donde logré mejorar ampliamente mi capacidad de diseño. Además, seguí practicando y mejorando mi capacidad de código del lado del Frontend.
 Debajo de este mensaje está el enunciado del trabajo.
 Deploy del trabajo con Netlify: https://6553960d1ec3bd008e5354d6--comforting-flan-d724ea.netlify.app/
 
